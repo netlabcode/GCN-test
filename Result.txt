@@ -1,0 +1,5 @@
+sample-big
+LSTM:
+train_loss: 0.07215147465467453, valid_loss: 0.07215085625648499, time: [145.27], best model: 1
+GCN-LSTM:
+train_loss: 0.015566225163638592, valid_loss: 0.015543037094175816, time: [220.1], best model: 1
